@@ -1,0 +1,7 @@
+{
+  "name": "bqml-sample",
+  "dependencies": {
+    "@dataform/core": "2.9.0",
+    "bqml": "https://github.com/chtyim/dataform-bqml/archive/0.0.1.tar.gz"
+  }
+}
